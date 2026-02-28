@@ -81,7 +81,4 @@ Installation \& Setup Guide:
 Open Google Chrome and go to: http://localhost/job/login/login.php
 
 
-Test Accounts:
-Jobseeker Account: weeee@g.com (Password: 123456)
-Company Account: intel@gmail.com (Password: 123456)
 
